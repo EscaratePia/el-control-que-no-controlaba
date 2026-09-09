@@ -178,6 +178,11 @@ En el proyecto del que salen estos casos, el arnés de degradación encontró hu
 reales en cuatro ocasiones distintas —incluido uno en la comprobación escrita
 específicamente para evitar este problema.
 
+Los cinco casos están en [`ejemplos/`](ejemplos/) como código que se puede
+correr: cada uno muestra las pruebas del control con defecto pasando en verde
+sobre código roto a propósito, y las del corregido poniéndose en rojo con la
+misma degradación. El arnés está ahí también, y sirve para cualquier proyecto.
+
 ---
 
 ## Lo que un informe tiene que declarar
